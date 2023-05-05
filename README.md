@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**Ali-Key/Ali-Key** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Ali-Key</h1>
+<h3 align="center">A passionate frontend developer from Somalia</h3>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **FrontEnd developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **React Js , Java  & Python**
+
+- 👯 I’m looking to collaborate on **Web developer & System development**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Ali-Key](https://github.com/Ali-Key)
+
+- 💬 Ask me about **HTML , CSS , Js, Java & some React Js**
+
+- 📫 How to reach me **ali-Key2023@gmail.com**
+
+- 📄 Know about my experiences [https://github.com/Ali-Key](https://github.com/Ali-Key)
+
+
+
+
