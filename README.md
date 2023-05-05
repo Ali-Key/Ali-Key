@@ -1,11 +1,12 @@
 # Ali Omar Abdi (Ali-Key)
 ### FrontEnd developer
 
-⤷I'm a computer science student who With Passionate about web development and web design.....
+⤷I'm a computer science student who With Passionate about MERN stack developer
+.....
 
 Experienced Developer 
 
- <a aligh="left" https://github.com/Ali-Key" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:alikey2023@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/Alik3e.netlify.app" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a>  
+ <a aligh="left" https://github.com/Ali-Key" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="github" width="22" height="22" /></a> <a aligh="left" href="mailto:alikey2023@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/Alik3e.netlify.app" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a>  
 
 ⚐ Based in Mogadishu Somalia
 
