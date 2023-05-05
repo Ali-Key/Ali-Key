@@ -1,16 +1,29 @@
 # Ali Omar Abdi (Ali-Key)
-### FrontEnd developer
 
-⤷I'm a computer science student who With Passionate about MERN stack developer
-.....
 
-Experienced Developer 
+- 🔭 I’m currently working on **FrontEnd developer**
 
- <a aligh="left" href="mailto:alikey2023@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/Alik3e.netlify.app" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a>  
+- 🌱 I’m currently learning **React Js , Java , & Python**
+
+- 👯 I’m looking to collaborate on **Web developer & System development**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Miirshe](https://github.com/Miirshe)
+
+- 💬 Ask me about **HTML , CSS , Js, Java & some React Js**
+
+- 📫 How to reach me **miirshe@gmail.com**
+
+- 📄 Know about my experiences [https://github.com/Miirshe](https://github.com/Miirshe)
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/miirshe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="miirshe" height="30" width="40" /></a>
+
 
 ⚐ Based in Mogadishu Somalia
 
-ϟ Currently learning React Js , Java  & Python
+
 
 
 
