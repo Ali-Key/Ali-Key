@@ -1,4 +1,5 @@
-# Ali Omar Abdi (Ali-Key)
+
+# Hi 👋, I'm Ali Omar Abdi (Ali-Key)
 
 
 - 🔭 I’m currently working on **FrontEnd developer**
