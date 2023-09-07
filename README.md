@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ali-Key](https://github.com/Ali-Key)
 
-- 💬 Ask me about **HTML , CSS , Js, Java & some React Js**
+- 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript, Java, some React Js  and  Php**
 
 - 📫 How to reach me **alikey2023@gmail.com**
 
