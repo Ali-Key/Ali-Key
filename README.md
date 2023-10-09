@@ -2,9 +2,9 @@
 # Hi 👋, I'm Ali Omar Abdi (Ali-Key)
 
 
-- 🔭 I’m currently working on **FrontEnd developer**
+- 🔭 I’m currently working on **Full stack developer**
 
-- 🌱 I’m currently learning **React Js ,Tailwind Css ,  Java , & Python , Node.js and Php **
+- 🌱 I’m currently learning **Dart, flutter, MongoDB and  Node.js **
 
 - 👯 I’m looking to collaborate on **Web developer & System development**
 
